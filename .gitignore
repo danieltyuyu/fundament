@@ -1,0 +1,20 @@
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# System / Temp
+.DS_Store
+Thumbs.db
+
+# Agent metadata
+.agents/
+skills-lock.json
